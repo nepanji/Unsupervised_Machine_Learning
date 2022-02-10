@@ -54,7 +54,8 @@ data. To accomplish this task, use Pandas to create dummy variables.
         
         At initial glance, there are 4 different clusters; however, 98.5% of the 532 classifications of cryptocurrencies 
         are distributed in class '0' based on feature similarities. There are 2 unique cryptocurrencies and 6 in class 3 
-        that share similar features. Ultimately, plotting the results does not yield proper segmentation of the different classes. 
+        that share similar features. Ultimately, plotting the results does not yield proper segmentation of the different 
+        classes. 
 
 ### References
 
