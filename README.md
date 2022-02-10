@@ -48,11 +48,12 @@ data. To accomplish this task, use Pandas to create dummy variables.
 
 * Based on your findings, make a brief (1-2 sentences) recommendation to your clients. Can the cryptocurrencies be clustered together? If so, into how many clusters?
 *  
-![Screen Shot 2022-02-10 at 6 39 38 PM](https://user-images.githubusercontent.com/89491352/153515445-d29dd084-ddda-4c61-89f1-05cfd4b51e56.png)     ![Screen Shot 2022-02-10 at 6 39 21 PM](https://user-images.githubusercontent.com/89491352/153515413-6435c907-84e1-4975-9616-013eec56230f.png)
+![Screen Shot 2022-02-10 at 6 39 38 PM](https://user-images.githubusercontent.com/89491352/153515445-d29dd084-ddda-4c61-89f1-05cfd4b51e56.png)        ![Screen Shot 2022-02-10 at 6 39 21 PM](https://user-images.githubusercontent.com/89491352/153515413-6435c907-84e1-4975-9616-013eec56230f.png)
 
         
-        At initial glance, there are 4 different clusters; however, 98.5% of the 532 classifications of cryptocurrencies are distributed in class '0' based on feature similarities. 
-        There are 2 unique cryptocurrencies and 6 in class 3 that share similar features. Ultimately, plotting the results does not yield proper segmentation of the different classes. 
+        At initial glance, there are 4 different clusters; however, 98.5% of the 532 classifications of cryptocurrencies are distributed in class '0' based 
+        on feature similarities. There are 2 unique cryptocurrencies and 6 in class 3 that share similar features. Ultimately, plotting the results does not
+        yield proper segmentation of the different classes. 
 
 ### References
 
